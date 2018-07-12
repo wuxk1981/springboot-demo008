@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * <p>Description: [功能描述]</p>
+ * <p>Description: [公共控制器]</p>
  * Created on 2018/7/11 15:17
  *
  * @author <a href="mailto: wuxinkuan@camelotchina.com">吴心宽</a>
